@@ -1,0 +1,7 @@
+{
+  "name": "GGX INVOICE GENERATOR v20",
+  "description": "A modern React implementation of the Go Global Express logistics management system featuring real-time rate calculation, invoice generation, and responsive design.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
